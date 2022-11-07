@@ -16,19 +16,19 @@ NIM : 2041720073
 
 ![EMPTY ACTIVITY](ss/2.PNG)
 
-## Tampilan File main.dart
+## 3. Tampilan File main.dart
 ## Ketiga buka file main.dart lalu edit
  
 ![EMPTY ACTIVITY](ss/3.PNG)
 
 ## Hasil Akhir
 
-![EMPTY ACTIVITY](ss/3.jpeg)
+![EMPTY ACTIVITY](ss/4.jpg)
 
 ## Saat discrol 
 
 
-![EMPTY ACTIVITY](ss/4.jpeg)
+![EMPTY ACTIVITY](ss/5.jpg)
 
 
 

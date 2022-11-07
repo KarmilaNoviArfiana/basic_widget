@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
                     padding: const EdgeInsets.all(8.0),
                     child: const Text(
                       "BERITA TERBARU",
-                      style: TextStyle(fontSize: 16.0),
+                      style: TextStyle(fontSize: 14.0),
                     ),
                   ),
                   Container(
@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
                     padding: const EdgeInsets.all(8.0),
                     child: const Text(
                       "PERTANDINGAN HARI INI",
-                      style: TextStyle(fontSize: 16.0),
+                      style: TextStyle(fontSize: 14.0),
                     ),
                   ),
                 ],
@@ -51,7 +51,7 @@ class MyApp extends StatelessWidget {
                     decoration: BoxDecoration(
                         border: Border.all(width: 2, color: Colors.white)),
                     child: Image(
-                      width: 80.0,
+                      width: 68.0,
                       height: 150.0,
                       fit: BoxFit.fill,
                       image: NetworkImage(
@@ -63,7 +63,7 @@ class MyApp extends StatelessWidget {
                     decoration: BoxDecoration(
                         border: Border.all(width: 2, color: Colors.white)),
                     child: Image(
-                      width: 80.0,
+                      width: 68.0,
                       height: 150.0,
                       fit: BoxFit.fill,
                       image: NetworkImage(
@@ -75,7 +75,7 @@ class MyApp extends StatelessWidget {
                     decoration: BoxDecoration(
                         border: Border.all(width: 2, color: Colors.white)),
                     child: Image(
-                      width: 80.0,
+                      width: 68.0,
                       height: 150.0,
                       fit: BoxFit.fill,
                       image: NetworkImage(
@@ -87,7 +87,7 @@ class MyApp extends StatelessWidget {
                     decoration: BoxDecoration(
                         border: Border.all(width: 2, color: Colors.white)),
                     child: Image(
-                      width: 80.0,
+                      width: 68.0,
                       height: 150.0,
                       fit: BoxFit.fill,
                       image: NetworkImage(
@@ -99,7 +99,7 @@ class MyApp extends StatelessWidget {
                     decoration: BoxDecoration(
                         border: Border.all(width: 2, color: Colors.white)),
                     child: Image(
-                      width: 80.0,
+                      width: 68.0,
                       height: 150.0,
                       fit: BoxFit.fill,
                       image: NetworkImage(
@@ -138,7 +138,7 @@ class MyApp extends StatelessWidget {
                     margin: EdgeInsets.only(bottom: 5, top: 5),
                     alignment: Alignment.center,
                     height: 120.0,
-                    width: 300.0,
+                    width: 240.0,
                     child: Text(
                       "1. Kylian Mbappe",
                       style: TextStyle(
@@ -168,7 +168,7 @@ class MyApp extends StatelessWidget {
                     margin: EdgeInsets.only(bottom: 5, top: 5),
                     alignment: Alignment.center,
                     height: 120.0,
-                    width: 300.0,
+                    width: 240.0,
                     child: Text(
                       "2. Lionel Messi",
                       style: TextStyle(
@@ -198,7 +198,7 @@ class MyApp extends StatelessWidget {
                     margin: EdgeInsets.only(bottom: 5, top: 5),
                     alignment: Alignment.center,
                     height: 120.0,
-                    width: 300.0,
+                    width: 240.0,
                     child: Text(
                       "3. Cristiano Ronaldo",
                       style: TextStyle(
@@ -228,7 +228,7 @@ class MyApp extends StatelessWidget {
                     alignment: Alignment.center,
                     margin: EdgeInsets.only(bottom: 5, top: 5),
                     height: 120.0,
-                    width: 300.0,
+                    width: 240.0,
                     child: Text(
                       "4. Mohamed Salah",
                       style: TextStyle(
@@ -258,7 +258,7 @@ class MyApp extends StatelessWidget {
                     margin: EdgeInsets.only(bottom: 5, top: 5),
                     alignment: Alignment.center,
                     height: 120.0,
-                    width: 300.0,
+                    width: 240.0,
                     child: Text(
                       "5. Mesut Ozil",
                       style: TextStyle(
