@@ -79,7 +79,7 @@ class MyApp extends StatelessWidget {
                       height: 150.0,
                       fit: BoxFit.fill,
                       image: NetworkImage(
-                        "https://static.poder360.com.br/2021/08/photo_2021-08-27_15-23-08.jpg",
+                        "https://s.hs-data.com/bilder/spieler/gross/13029.jpg",
                       ),
                     ),
                   ),
@@ -103,7 +103,7 @@ class MyApp extends StatelessWidget {
                       height: 150.0,
                       fit: BoxFit.fill,
                       image: NetworkImage(
-                        "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Ozil_1045x658_1.jpg?itok=SsX1Db3y",
+                        "https://s.hs-data.com/bilder/spieler/gross/43165.jpg?fallback=png",
                       ),
                     ),
                   ),
@@ -189,7 +189,7 @@ class MyApp extends StatelessWidget {
                     height: 120.0,
                     child: Image(
                       image: NetworkImage(
-                        "https://static.poder360.com.br/2021/08/photo_2021-08-27_15-23-08.jpg",
+                        "https://s.hs-data.com/bilder/spieler/gross/13029.jpg",
                       ),
                     ),
                   ),
@@ -249,7 +249,7 @@ class MyApp extends StatelessWidget {
                     height: 120.0,
                     child: Image(
                       image: NetworkImage(
-                        "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Ozil_1045x658_1.jpg?itok=SsX1Db3y",
+                        "https://s.hs-data.com/bilder/spieler/gross/43165.jpg?fallback=png",
                       ),
                     ),
                   ),
