@@ -21,11 +21,11 @@ NIM : 2041720073
  
 ![EMPTY ACTIVITY](ss/3.PNG)
 
-## Hasil Akhir
+### HASIL AKHIR
 
 ![EMPTY ACTIVITY](ss/4.jpg)
 
-## Saat discrol 
+## SAAT DISCROL
 
 
 ![EMPTY ACTIVITY](ss/5.jpg)
