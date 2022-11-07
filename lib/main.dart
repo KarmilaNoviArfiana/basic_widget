@@ -67,7 +67,7 @@ class MyApp extends StatelessWidget {
                       height: 150.0,
                       fit: BoxFit.fill,
                       image: NetworkImage(
-                        "https://th.bing.com/th/id/OIP.jKHBRVWDytTl9XLqRRQ7kAHaJ4?pid=ImgDet&rs=1",
+                        "https://s.hs-data.com/bilder/spieler/gross/26622.jpg?fallback=png",
                       ),
                     ),
                   ),
@@ -79,7 +79,7 @@ class MyApp extends StatelessWidget {
                       height: 150.0,
                       fit: BoxFit.fill,
                       image: NetworkImage(
-                        "https://cdn.images.express.co.uk/img/dynamic/67/285x395/897524_1.jpg",
+                        "https://static.poder360.com.br/2021/08/photo_2021-08-27_15-23-08.jpg",
                       ),
                     ),
                   ),
@@ -91,7 +91,7 @@ class MyApp extends StatelessWidget {
                       height: 150.0,
                       fit: BoxFit.fill,
                       image: NetworkImage(
-                        "https://ichef.bbci.co.uk/images/ic/raw/p066d6v9.png",
+                        "https://wikifid.com/wp-content/uploads/2021/01/Mohamed-Salah-Bio-Wiki-Age-Height-Net-Worth-Wife-Family.jpg",
                       ),
                     ),
                   ),
@@ -103,7 +103,7 @@ class MyApp extends StatelessWidget {
                       height: 150.0,
                       fit: BoxFit.fill,
                       image: NetworkImage(
-                        "https://th.bing.com/th/id/OIP.9GpL67Q5RQx9L1BgFMDG6gHaGL?pid=ImgDet&rs=1",
+                        "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Ozil_1045x658_1.jpg?itok=SsX1Db3y",
                       ),
                     ),
                   ),
@@ -159,7 +159,7 @@ class MyApp extends StatelessWidget {
                     height: 120.0,
                     child: Image(
                       image: NetworkImage(
-                        "https://th.bing.com/th/id/OIP.jKHBRVWDytTl9XLqRRQ7kAHaJ4?pid=ImgDet&rs=1",
+                        "https://s.hs-data.com/bilder/spieler/gross/26622.jpg?fallback=png",
                       ),
                     ),
                   ),
@@ -189,7 +189,7 @@ class MyApp extends StatelessWidget {
                     height: 120.0,
                     child: Image(
                       image: NetworkImage(
-                        "https://cdn.images.express.co.uk/img/dynamic/67/285x395/897524_1.jpg",
+                        "https://static.poder360.com.br/2021/08/photo_2021-08-27_15-23-08.jpg",
                       ),
                     ),
                   ),
@@ -219,7 +219,7 @@ class MyApp extends StatelessWidget {
                     height: 120.0,
                     child: Image(
                       image: NetworkImage(
-                        "https://ichef.bbci.co.uk/images/ic/raw/p066d6v9.png",
+                        "https://wikifid.com/wp-content/uploads/2021/01/Mohamed-Salah-Bio-Wiki-Age-Height-Net-Worth-Wife-Family.jpg",
                       ),
                     ),
                   ),
@@ -249,7 +249,7 @@ class MyApp extends StatelessWidget {
                     height: 120.0,
                     child: Image(
                       image: NetworkImage(
-                        "https://th.bing.com/th/id/OIP.9GpL67Q5RQx9L1BgFMDG6gHaGL?pid=ImgDet&rs=1",
+                        "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Ozil_1045x658_1.jpg?itok=SsX1Db3y",
                       ),
                     ),
                   ),
